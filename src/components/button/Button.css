@@ -1,0 +1,19 @@
+#count{
+    font-size: 75px;
+    color: white;
+    
+}
+button{
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 10px;
+    border: none;
+    margin:5px;
+    
+}
+#dec{
+    background-color: darkred;
+}
+#inc {
+    background-color:forestgreen; 
+}

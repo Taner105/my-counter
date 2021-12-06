@@ -1,0 +1,12 @@
+.head { 
+    margin-top: 250px;
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+h1{
+    color: brown;
+}
+h1:hover{
+    color: chartreuse;
+}
